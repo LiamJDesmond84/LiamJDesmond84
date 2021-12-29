@@ -5,7 +5,7 @@
 - ⚡ I'm currently learning as much as possible
 - 👯 I’m looking to collaborate with other content creators
 - 🤔 I’m always looking for any input on new technologies and improving the skillset I already have
-- How to reach me: [<img align="left" alt="LiamJDesmond84 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- [<img align="left" alt="LiamJDesmond84 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] <= My LinkedIn
 
 
 ### Languages and Tools:
