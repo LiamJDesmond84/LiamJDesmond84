@@ -19,7 +19,7 @@
 
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" />
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
-<img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" />
 
 
