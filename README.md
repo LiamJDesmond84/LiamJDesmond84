@@ -12,15 +12,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiamJDesmond84&hide=css&layout=compact)](https://github.com/LiamJDesmond84/github-readme-stats)
 
-<img align="left" alt="Visual Studio Code" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img float="left" alt="Visual Studio Code" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img float="left" alt="HTML5" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img float="left" alt="CSS3" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Flask" width="35" height="-100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" />
-<img align="left" alt="Django" width="35" height="-100" src="https://https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"/>
-<img align="left" alt="Express" width="35" height="-120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
+<img float="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img float="left" alt="React" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img float="left" alt="Flask" width="35" height="-100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" />
+<img float="left" alt="Django" width="35" height="-100" src="https://https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"/>
+<img float="left" alt="Express" width="35" height="-120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
 <img align="left" alt="Python" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="NPM" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" />
 
