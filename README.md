@@ -31,7 +31,7 @@
 <img class="category" align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </div>
 
-[![Liam's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiamJDesmond84)](https://github.com/LiamJDesmond84/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiamJDesmond84)](https://github.com/LiamJDesmond84/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/liam-james-desmond/
 
