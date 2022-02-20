@@ -3,7 +3,7 @@
 
 
 - ⚡ Currently learning microservices & Docker as well as experimenting with the skillsets I've learned so far.
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to contribute to other projects
 - 🤔 I’m always looking for any input on new technologies and improving the skillsets that I've already learned
 - [<img align="left" alt="LiamJDesmond84 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<= My LinkedIn
 
