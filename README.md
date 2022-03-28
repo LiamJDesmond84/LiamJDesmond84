@@ -5,7 +5,7 @@
 - Currently learning Microservices & Docker.
 - Anytime I see something screech across a room and latch onto someone's neck, and the guy screams and tries to get it off, I have to laugh, because what IS that thing.
 - [<img align="left" alt="LiamJDesmond84 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<= My LinkedIn
-- <a href="https://github.com/stars/LiamJDesmond84/lists/spring-boot-microservices-api">Spring Microservices Example Project with Service-Discovery, API-Gateway & Resilience4j fallbacks.</a>
+- <a href="https://github.com/stars/LiamJDesmond84/lists/spring-boot-microservices-api">Spring Microservices Example Project with Service-Discovery, API-Gateway & Resilience4j fallback methods.</a>
 
 
 ### Languages and Tools:
