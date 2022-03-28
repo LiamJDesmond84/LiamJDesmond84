@@ -22,7 +22,7 @@
 <img align="left" alt="Python" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" />
 
 <img align="left" alt="Flask" width="35" height="-100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" />
-<img align="left" alt="Django" width="35" height="-100" src="https://https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg"/>
+<img align="left" alt="Django" width="35" height="-100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg"/>
 <img align="left" alt="Express" width="35" height="-120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
 
 <img align="left" alt="NPM" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" />
