@@ -7,6 +7,8 @@
 - [<img align="left" alt="LiamJDesmond84 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<= My LinkedIn
 - <a href="https://liamjdesmond84.github.io/" target="_blank">Portfolio Site<a/>
 - <a href="https://github.com/stars/LiamJDesmond84/lists/spring-boot-microservices-api" target="_blank">Spring Microservices Example Project - (Service-Discovery, API-Gateway, Resilience4j fallback methods)</a>
+- Certifications:
+  - Microsoft Certified: Azure Fundamentals
 
 
 ### Languages and Tools:
