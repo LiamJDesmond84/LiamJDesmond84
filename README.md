@@ -18,7 +18,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiamJDesmond84&hide=css&layout=compact&theme=chartreuse-dark)](https://github.com/LiamJDesmond84/github-readme-stats)
 
-
+<div class="column">
+<div class="row">
 <img align="left" alt="Git" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" />
 <img align="left" alt="Visual Studio Code" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -31,7 +32,8 @@
 <img align="left" alt="Spring" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" />
 
 <img align="left" alt="Flask" width="35" height="-100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" />
-
+</div>
+<div class="row">
 <img align="left" alt="Express" width="37" height="-120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
 
 <img align="left" alt="NPM" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" />
@@ -45,7 +47,8 @@
 <img align="left" alt="Jira" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-plain-wordmark.svg" />
 <img align="left" alt="Jenkins" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" />
 <img align="left" alt="Terminal" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
+</div>
+</div>
 
   
 
