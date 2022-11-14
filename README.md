@@ -19,7 +19,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiamJDesmond84&hide=css&layout=compact&theme=chartreuse-dark)](https://github.com/LiamJDesmond84/github-readme-stats)
 
 <img align="left" alt="AZ-900" width="26" src="https://github.com/LiamJDesmond84/LiamJDesmond84.github.io/blob/LiamJDesmond84/img/microsoft-certified-azure-fundamentals%20(4).png" />
-<img align="left" alt="AZ-900" width="26" src="[https://github.com/LiamJDesmond84/LiamJDesmond84.github.io/blob/LiamJDesmond84/img/microsoft-certified-azure-fundamentals%20(4).png](https://images.credly.com/size/680x680/images/64926fbc-e479-48a3-9860-497541994cdc/MTA-Networking-Fundamentals-2018.png)" />  
+<img align="left" alt="AZ-900" width="26" src="https://images.credly.com/size/680x680/images/64926fbc-e479-48a3-9860-497541994cdc/MTA-Networking-Fundamentals-2018.png" />  
 <img align="left" alt="Visual Studio Code" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
