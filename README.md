@@ -48,7 +48,7 @@
 
 <img align="left" alt="Jira" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-plain-wordmark.svg" />
 <img align="left" alt="Jenkins" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" />
-<img align="left" alt="Terminal" width="30" src="https://camo.githubusercontent.com/a46107f5b993f43f2da462b4dfbc78dc4e72cd34747c8a3ab321fe76bfb584ef/687474703a2f2f69636f6e732e69636f6e617263686976652e636f6d2f69636f6e732f70616f6d656469612f736d616c6c2d6e2d666c61742f313032342f7465726d696e616c2d69636f6e2e706e67" />
+<img align="bottom" alt="Terminal" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </div>
 </div>
 
