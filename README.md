@@ -8,8 +8,8 @@
 - <a href="https://liamjdesmond84.github.io/" target="_blank">Portfolio Site<a/>
 - <a href="https://github.com/stars/LiamJDesmond84/lists/spring-boot-microservices-api" target="_blank">Spring Microservices Example Project - (Service-Discovery, API-Gateway, Resilience4j fallback methods)</a>
 - Certifications:
-  - Microsoft Certified: Azure Fundamentals
-  - MTA: Networking Fundamentals
+  - <img alt="AZ-900" width="26" src="https://github.com/LiamJDesmond84/LiamJDesmond84.github.io/blob/LiamJDesmond84/img/microsoft-certified-azure-fundamentals%20(4).png" /> Microsoft Certified: Azure Fundamentals
+  - <img  alt="AZ-900" width="26" src="https://images.credly.com/size/680x680/images/64926fbc-e479-48a3-9860-497541994cdc/MTA-Networking-Fundamentals-2018.png" /> MTA: Networking Fundamentals
   - MTA: Security Fundamentals
   - MTA: Windows Operating System Fundamentals
   - CompTIA Strata IT Fundamentals
