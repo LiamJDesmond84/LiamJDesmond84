@@ -18,8 +18,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiamJDesmond84&hide=css&layout=compact&theme=chartreuse-dark)](https://github.com/LiamJDesmond84/github-readme-stats)
 
-<div style={"display: flex; flex-direction: column"} >
-<div  style={"display: flex; flex-direction: row"}>
+<div style="display: flex; flexDirection: column" >
+<div style="display: flex; flexDirection: row">
   
 <img align="left" alt="Git" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" />
 <img align="left" alt="Visual Studio Code" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -35,7 +35,7 @@
 <img align="left" alt="Flask" width="35" height="-100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" />
 </div>
   
-<div style={"display: flex; flex-direction: row"} >
+<div style="display: flex; flexDirection: row" >
 <img align="left" alt="Express" width="37" height="-120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
 
 <img align="left" alt="NPM" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" />
