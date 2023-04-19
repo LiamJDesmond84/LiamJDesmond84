@@ -1,8 +1,4 @@
 
-## Just some dude... 😐
-
-
-- Currently learning Microservices & Docker.
 - Whether they ever find life there or not, I think Jupiter should be considered an enemy planet.
 - [<img align="left" alt="LiamJDesmond84 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<= My LinkedIn
 - <a href="https://liamjdesmond84.github.io/" target="_blank">Portfolio Site<a/>
