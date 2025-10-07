@@ -2,7 +2,6 @@
 - Whether they ever find life there or not, I think Jupiter should be considered an enemy planet.
 - Currently learning C#/.NET & Angular - So pay no heed to the random newer repos.
 - [<img align="left" alt="LiamJDesmond84 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<= My LinkedIn
-- <a href="https://liamjdesmond84.github.io/" target="_blank">Portfolio Site<a/>
 - <a href="https://github.com/stars/LiamJDesmond84/lists/spring-boot-microservices-api" target="_blank">Spring Microservices Example Project - (Service-Discovery, API-Gateway, Resilience4j fallback methods)</a>
 - Certifications:
   - <img alt="AZ-900" width="26" src="https://github.com/LiamJDesmond84/LiamJDesmond84.github.io/blob/LiamJDesmond84/img/microsoft-certified-azure-fundamentals%20(4).png" /> Microsoft Certified: Azure Fundamentals
