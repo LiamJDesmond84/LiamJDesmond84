@@ -1,5 +1,5 @@
 
-- Whether they ever find life there or not, I think Jupiter should be considered an enemy planet.
+- Proficient in JavaScript, TypeScript and React.
 - Currently learning C#/.NET & Angular - So pay no heed to the random newer repos.
 - [<img align="left" alt="LiamJDesmond84 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<= My LinkedIn
 - <a href="https://github.com/stars/LiamJDesmond84/lists/spring-boot-microservices-api" target="_blank">Spring Microservices Example Project - (Service-Discovery, API-Gateway, Resilience4j fallback methods)</a>
