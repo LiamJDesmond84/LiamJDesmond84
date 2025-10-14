@@ -5,6 +5,7 @@
 - <a href="https://github.com/stars/LiamJDesmond84/lists/spring-boot-microservices-api" target="_blank">Spring Microservices Example Project - (Service-Discovery, API-Gateway, Resilience4j fallback methods)</a>
 - Certifications:
   - <img alt="AZ-900" width="26" src="https://github.com/LiamJDesmond84/LiamJDesmond84.github.io/blob/LiamJDesmond84/img/microsoft-certified-azure-fundamentals%20(4).png" /> Microsoft Certified: Azure Fundamentals
+  - <img alt="PL-900" width="26" src="https://technisaur.com.au/wp-content/uploads/2024/01/featured-image.png" /> Microsoft Certified: Power Platform Fundamentals
   - MTA: Networking Fundamentals
   - MTA: Security Fundamentals
   - MTA: Windows Operating System Fundamentals
